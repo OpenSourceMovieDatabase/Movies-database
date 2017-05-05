@@ -1,5 +1,5 @@
 # Movies-database
-Open source movies information database, API and always free
+Open source movies information database, API and always free ( unlike other people going from open sourec to commercial api's)
 
 ## Proposed API
 
@@ -9,14 +9,13 @@ Open source movies information database, API and always free
 /api?actor=leonardo%20decaprio // returns all movies by leonardo decaprio
 ```
 
-Year based Movies
-2017
-2016
-2015
-2014
-2013
-2012
-2011
-2010
+Node module based movie database for API's. since source files are available you could use it any framework.
 
-Actors:
+# DISCLAIMER
+### This repo is only meant for movies meta information such as movie title, release date, cast, genre and other information.
+### similar to what freebase / IMDB does.
+### all of the information is generated from wikimedia related API's which are under https://creativecommons.org/publicdomain/zero/1.0/ 
+
+### you are free to use in free or commercial application
+## if you want to donate, please donate to wikimedia foundations
+
