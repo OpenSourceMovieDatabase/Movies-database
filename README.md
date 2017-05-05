@@ -1,5 +1,7 @@
 # Movies-database
-Open source movies information database, API and always free ( unlike other people going from open sourec to commercial api's)
+Open source movies information database, API and always free ( unlike other people going from open source to commercial api's)
+
+## Still under development ( should be availabel pretty soon)
 
 ## Proposed API
 
